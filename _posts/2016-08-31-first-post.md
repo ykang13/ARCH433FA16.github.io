@@ -1,0 +1,6 @@
+...
+layout: defaul
+title: my first blog post
+...
+
+What's up
